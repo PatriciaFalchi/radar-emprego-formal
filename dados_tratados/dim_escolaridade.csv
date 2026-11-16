@@ -1,0 +1,14 @@
+﻿escolaridade_cod,escolaridade,grupo_escolaridade,ordem_grupo
+1,Analfabeto,Fundamental incompleto,1
+2,Até 5ª Incompleto,Fundamental incompleto,1
+3,5ª Completo Fundamental,Fundamental incompleto,1
+4,6ª a 9ª Fundamental,Fundamental incompleto,1
+5,Fundamental Completo,Fundamental completo,2
+6,Médio Incompleto,Médio incompleto,3
+7,Médio Completo,Médio completo,4
+8,Superior Incompleto,Superior incompleto,5
+9,Superior Completo,Superior completo,6
+10,Mestrado,Pós-graduação,7
+11,Doutorado,Pós-graduação,7
+80,Pós-Graduação completa,Pós-graduação,7
+99,Não Identificado,Não informado,8

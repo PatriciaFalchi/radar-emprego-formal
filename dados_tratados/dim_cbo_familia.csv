@@ -1,0 +1,628 @@
+﻿familia,exemplos,ti_dados_sugerido,grande_grupo
+101,Oficial General da Aeronautica | Oficial General do Exercito | Oficial General da Marinha,False,Dirigentes e gerentes
+102,Oficial da Aeronautica | Oficial do Exercito | Oficial da Marinha,False,Dirigentes e gerentes
+103,Praca da Aeronautica | Praca do Exercito | Praca da Marinha,False,Dirigentes e gerentes
+201,Coronel da Policia Militar | Tenente-Coronel da Policia Militar | Major da Policia Militar,False,Profissionais das ciências e das artes
+202,Capitao da Policia Militar,False,Profissionais das ciências e das artes
+203,Primeiro Tenente de Policia Militar | Segundo Tenente de Policia Militar,False,Profissionais das ciências e das artes
+211,Subtenente da Policia Militar | Sargento da Policia Militar,False,Profissionais das ciências e das artes
+212,Cabo da Policia Militar | Soldado da Policia Militar,False,Profissionais das ciências e das artes
+301,Coronel Bombeiro Militar | Major Bombeiro Militar | Tenente-Coronel Bombeiro Militar,False,Técnicos de nível médio
+302,Capitao Bombeiro Militar,False,Técnicos de nível médio
+303,Tenente do Corpo de Bombeiros Militar,False,Técnicos de nível médio
+311,Subtenente Bombeiro Militar | Sargento Bombeiro Militar,False,Técnicos de nível médio
+312,Cabo Bombeiro Militar | Soldado Bombeiro Militar,False,Técnicos de nível médio
+1111,Senador | Deputado Federal | Deputado Estadual e Distrital,False,Dirigentes e gerentes
+1112,Presidente da Republica | Vice-Presidente da Republica | Ministro de Estado,False,Dirigentes e gerentes
+1113,Ministro do Supremo Tribunal Federal | Ministro do Superior Tribunal de Justica | Ministro do  Superior Tribunal Militar,False,Dirigentes e gerentes
+1114,Dirigente do Servico Publico Federal | Dirigente do Servico Publico Estadual e Distrital | Dirigente do Servico Publico Municipal,False,Dirigentes e gerentes
+1115,Especialista de Políticas Públicas e Gestão Governamental - Eppgg | Analista de Planejamento e Orçamento - Apo,False,Dirigentes e gerentes
+1130,Cacique | Lider de Comunidade Caicara | Membro de Lideranca Quilombola,False,Dirigentes e gerentes
+1141,Dirigente de Partido Politico,False,Dirigentes e gerentes
+1142,Dirigentes de Entidades de Trabalhadores | Dirigentes de Entidades Patronais,False,Dirigentes e gerentes
+1143,Dirigente e Administrador de Organizacao Religiosa,False,Dirigentes e gerentes
+1144,Dirigente e Administrador de Organizacao da Sociedade Civil sem Fins Lucrativos,False,Dirigentes e gerentes
+1210,Diretor de Planejamento Estrategico | Diretor Geral de Empresa e Organizacoes (Exceto de Interesse Publico),False,Dirigentes e gerentes
+1221,Diretor de Producao e Operacoes em Empresa Agropecuaria | Diretor de Producao e Operacoes em Empresa Aquicola | Diretor de Producao e Operacoes em Empresa Florestal,False,Dirigentes e gerentes
+1222,"Diretor de Producao e Operacoes da Industria de Transformacao, Extracao Mineral e Utilidades",False,Dirigentes e gerentes
+1223,Diretor de Operacoes de Obras Publica e Civil,False,Dirigentes e gerentes
+1224,Diretor de Operacoes Comerciais (Comercio Atacadista e Varejista),False,Dirigentes e gerentes
+1225,Diretor de  Producao e Operacoes de Alimentacao | Diretor de  Producao e Operacoes de Hotel | Diretor de  Producao e Operacoes de Turismo,False,Dirigentes e gerentes
+1226,Diretor de Operacoes de Correios | Diretor de Operacoes de Servicos de Armazenamento | Diretor de Operacoes de Servicos de Telecomunicacoes,False,Dirigentes e gerentes
+1227,Diretor Comercial em Operacoes de Intermediacao Financeira | Diretor de Produtos Bancarios | Diretor de Credito Rural,False,Dirigentes e gerentes
+1231,Diretor Administrativo | Diretor Administrativo e Financeiro | Diretor Financeiro,False,Dirigentes e gerentes
+1232,Diretor de Recursos Humanos | Diretor de Relacoes de Trabalho,False,Dirigentes e gerentes
+1233,Diretor Comercial | Diretor de Marketing,False,Dirigentes e gerentes
+1234,Diretor de Suprimentos | Diretor de Suprimentos no Servico Publico,False,Dirigentes e gerentes
+1236,Diretor de Servicos de Informatica,True,Dirigentes e gerentes
+1237,Diretor de Pesquisa e Desenvolvimento (P&D),False,Dirigentes e gerentes
+1238,Diretor de Manutencao,False,Dirigentes e gerentes
+1311,Diretor de Servicos Culturais | Diretor de Servicos Sociais | Gerente de Servicos Culturais,False,Dirigentes e gerentes
+1312,Diretor de Servicos de Saude | Gerente de Servicos de Saude | Tecnólogo em Gestão Hospitalar,False,Dirigentes e gerentes
+1313,Diretor de Instituicao Educacional da Area Privada | Diretor de Instituicao Educacional Publica | Gerente de Instituicao Educacional da Area Privada,False,Dirigentes e gerentes
+1411,Gerente de Producao e Operacoes  Aquicolas | Gerente de Producao e Operacoes  Florestais | Gerente de Producao e Operacoes Agropecuarias,False,Dirigentes e gerentes
+1412,Gerente de Producao e Operacoes,False,Dirigentes e gerentes
+1413,Gerente de Producao e Operacoes da Construcao Civil e Obras Publicas,False,Dirigentes e gerentes
+1414,Comerciante Atacadista | Comerciante Varejista | Gerente de Loja e Supermercado,False,Dirigentes e gerentes
+1415,Gerente de Hotel | Gerente de Restaurante | Gerente de Bar,False,Dirigentes e gerentes
+1416,Gerente de Operacoes de Transportes | Gerente de Operacoes de Correios e Telecomunicacoes | Gerente de Logistica (Armazenagem e Distribuicao),False,Dirigentes e gerentes
+1417,Gerente de Produtos Bancarios | Gerente de Agencia | Gerente de Cambio e Comercio Exterior,False,Dirigentes e gerentes
+1418,Gerente De Administração Em Aeroportos | Gerente De Empresa Aérea E Empresa De Serviços Auxiliares Ao Transporte Aéreo (Esata) Em Aeroportos | Gerente De Operações Em Aeroportos,False,Dirigentes e gerentes
+1421,Gerente Administrativo | Gerente de Riscos | Gerente Financeiro,False,Dirigentes e gerentes
+1422,Gerente de Recursos Humanos | Gerente de Departamento Pessoal,False,Dirigentes e gerentes
+1423,Gerente Comercial | Gerente de Comunicacao | Gerente de Marketing,False,Dirigentes e gerentes
+1424,Gerente de Compras | Gerente de Suprimentos | Gerente de Almoxarifado,False,Dirigentes e gerentes
+1425,Gerente de Rede | Gerente de Desenvolvimento de Sistemas | Gerente de Producao de Tecnologia da Informacao,True,Dirigentes e gerentes
+1426,Gerente de Pesquisa e Desenvolvimento (P&D) | Especialista em Desenvolvimento de Cigarros,False,Dirigentes e gerentes
+1427,Gerente de Projetos e Servicos de Manutencao | Tecnólogo em Sistemas Biomédicos,False,Dirigentes e gerentes
+2011,Bioengenheiro | Biotecnologista | Geneticista,False,Profissionais das ciências e das artes
+2012,Pesquisador em Metrologia | Especialista em Calibracoes Metrologicas | Especialista em Ensaios Metrologicos,False,Profissionais das ciências e das artes
+2021,Engenheiro Mecatronico | Engenheiro de Controle e Automacao (A) | Tecnologo em Mecatronica,False,Profissionais das ciências e das artes
+2030,Pesquisador em Biologia Ambiental | Pesquisador em Biologia Animal | Pesquisador em Biologia de Microorganismos e Parasitas,False,Profissionais das ciências e das artes
+2031,Pesquisador em Ciencias da Computacao e Informatica | Pesquisador em Ciencias da Terra e Meio Ambiente | Pesquisador em Fisica,True,Profissionais das ciências e das artes
+2032,Pesquisador de Engenharia Civil | Pesquisador de Engenharia e Tecnologia (Outras Areas da Engenharia) | Pesquisador de Engenharia Eletrica e Eletronica,False,Profissionais das ciências e das artes
+2033,Pesquisador de Clinica Medica | Pesquisador de Medicina Basica | Pesquisador em Medicina Veterinaria,False,Profissionais das ciências e das artes
+2034,Pesquisador em Ciencias Agronomicas | Pesquisador em Ciencias da Pesca e Aquicultura | Pesquisador em Ciencias da Zootecnia,False,Profissionais das ciências e das artes
+2035,Pesquisador em Ciencias Sociais e Humanas | Pesquisador em Economia | Pesquisador em Ciencias da Educacao,False,Profissionais das ciências e das artes
+2041,Perito Criminal | Perito Judicial,False,Profissionais das ciências e das artes
+2111,Atuario | Especialista em Pesquisa Operacional | Matematico,False,Profissionais das ciências e das artes
+2112,Estatistico | Estatistico (Estatistica Aplicada) | Estatistico Teorico,False,Profissionais das ciências e das artes
+2122,Engenheiro de Aplicativos em Computacao | Engenheiro de Equipamentos em Computacao | Engenheiros de Sistemas Operacionais em Computacao,True,Profissionais das ciências e das artes
+2123,Administrador de Banco de Dados | Administrador de Redes | Administrador de Sistemas Operacionais,True,Profissionais das ciências e das artes
+2124,Analista de Desenvolvimento de Sistemas | Analista de Redes e de Comunicacao de Dados | Analista de Sistemas de Automacao,True,Profissionais das ciências e das artes
+2131,Fisico | Fisico (Acustica) | Fisico (Atomica e Molecular),False,Profissionais das ciências e das artes
+2132,Quimico | Quimico Industrial | Tecnólogo em Processos Químicos,False,Profissionais das ciências e das artes
+2133,Astronomo | Geofisico Espacial | Meteorologista,False,Profissionais das ciências e das artes
+2134,Geologo | Geologo de Engenharia | Geofisico,False,Profissionais das ciências e das artes
+2140,Engenheiro Ambiental | Tecnólogo em Meio Ambiente,False,Profissionais das ciências e das artes
+2141,Arquiteto de Edificacoes | Arquiteto de Interiores | Arquiteto de Patrimonio,False,Profissionais das ciências e das artes
+2142,Engenheiro Civil | Engenheiro Civil (Aeroportos) | Engenheiro Civil (Edificacoes),False,Profissionais das ciências e das artes
+2143,Engenheiro Eletricista | Engenheiro Eletronico | Engenheiro Eletricista de Manutencao,False,Profissionais das ciências e das artes
+2144,Engenheiro Mecanico | Engenheiro Mecanico Automotivo | Engenheiro Mecanico (Energia Nuclear),False,Profissionais das ciências e das artes
+2145,"Engenheiro Quimico | Engenheiro Quimico (Industria Quimica) | Engenheiro Quimico (Mineracao, Metalurgia, Siderurgia, Cimenteira e Ceramica)",False,Profissionais das ciências e das artes
+2146,Engenheiro de Materiais | Engenheiro Metalurgista | Tecnólogo em Metalurgia,False,Profissionais das ciências e das artes
+2147,Engenheiro de Minas | Engenheiro de Minas (Beneficiamento) | Engenheiro de Minas (Lavra a Ceu Aberto),False,Profissionais das ciências e das artes
+2148,Engenheiro Agrimensor | Engenheiro Cartografo,False,Profissionais das ciências e das artes
+2149,Engenheiro de Producao | Engenheiro de Controle de Qualidade | Engenheiro de Seguranca do Trabalho,False,Profissionais das ciências e das artes
+2151,Agente de Manobra e Docagem | Capitao de Manobra da Marinha Mercante | Comandante da Marinha Mercante,False,Profissionais das ciências e das artes
+2152,Oficial Superior de Maquinas da Marinha Mercante | Primeiro Oficial de Maquinas da Marinha Mercante | Segundo Oficial de Maquinas da Marinha Mercante,False,Profissionais das ciências e das artes
+2153,Piloto de Aeronaves | Piloto de Ensaios em Voo | Instrutor de Voo,False,Profissionais das ciências e das artes
+2211,Biologo,False,Profissionais das ciências e das artes
+2212,Biomédico,False,Profissionais das ciências e das artes
+2221,Engenheiro Agricola | Engenheiro Agronomo | Engenheiro de Pesca,False,Profissionais das ciências e das artes
+2222,Engenheiro de Alimentos | Tecnólogo em Alimentos,False,Profissionais das ciências e das artes
+2231,Medico Acupunturista (Desativado em 04/2011) | Medico Alergista e Imunologista (Desativado em 04/2011) | Medico Anatomopatologista (Desativado em 04/2011),False,Profissionais das ciências e das artes
+2232,Cirurgiao Dentista - Auditor | Cirurgiao Dentista - Clinico Geral | Cirurgiao Dentista - Endodontista,False,Profissionais das ciências e das artes
+2233,Medico Veterinario | Zootecnista,False,Profissionais das ciências e das artes
+2234,Farmaceutico | Farmaceutico Bioquimico | Farmaceutico Analista Clinico,False,Profissionais das ciências e das artes
+2235,Enfermeiro | Enfermeiro Auditor | Enfermeiro de Bordo,False,Profissionais das ciências e das artes
+2236,Fisioterapeuta Geral | Fonoaudiologo (Desativado em 23/08/2004) | Ortoptista (Desativado em 01/2009),False,Profissionais das ciências e das artes
+2237,Dietista | Nutricionista,False,Profissionais das ciências e das artes
+2238,Fonoaudiologo | Fonoaudiologo Educacional | Fonoaudiologo em Audiologia,False,Profissionais das ciências e das artes
+2239,Terapeuta Ocupacional | Ortoptista | Musicoterapeuta (A),False,Profissionais das ciências e das artes
+2241,Avaliador Fisico | Ludomotricista | Preparador de Atleta,False,Profissionais das ciências e das artes
+2251,Médico Infectologista | Médico Acupunturista | Médico Legista,False,Profissionais das ciências e das artes
+2252,Médico em Cirurgia Vascular | Médico Cirurgião Cardiovascular | Médico Cirurgião de Cabeça e Pescoço,False,Profissionais das ciências e das artes
+2253,Médico Citopatologista | Médico em Endoscopia | Médico em Medicina Nuclear,False,Profissionais das ciências e das artes
+2261,Quiropraxista | Osteopata,False,Profissionais das ciências e das artes
+2263,Musicoterapeuta | Arteterapeuta | Equoterapeuta,False,Profissionais das ciências e das artes
+2311,Professor de Nivel Superior na Educacao Infantil (Quatro a Seis Anos) | Professor de Nivel Superior na Educacao Infantil (Zero a Tres Anos),False,Profissionais das ciências e das artes
+2312,Professor da  Educacao de Jovens e Adultos do Ensino Fundamental (Primeira a Quarta Serie) | Professor de Nivel Superior do Ensino Fundamental (Primeira a Quarta Serie),False,Profissionais das ciências e das artes
+2313,Professor de Ciencias Exatas e Naturais do Ensino Fundamental | Professor de Educacao Artistica do Ensino Fundamental | Professor de Educacao Fisica do Ensino Fundamental,False,Profissionais das ciências e das artes
+2321,Professor de Artes no Ensino Medio | Professor de Biologia no Ensino Medio | Professor de Disciplinas Pedagogicas no Ensino Medio,False,Profissionais das ciências e das artes
+2331,Professor da Area de Meio Ambiente | Professor de Desenho Tecnico | Professor de Tecnicas Agricolas,False,Profissionais das ciências e das artes
+2332,Instrutor de Aprendizagem e Treinamento Agropecuario | Instrutor de Aprendizagem e Treinamento Industrial | Professor de Aprendizagem e Treinamento Comercial,False,Profissionais das ciências e das artes
+2341,Professor de Matematica Aplicada (No Ensino Superior) | Professor de Matematica Pura (No Ensino Superior) | Professor de Estatistica (No Ensino Superior),True,Profissionais das ciências e das artes
+2342,Professor de Fisica (Ensino Superior) | Professor de Quimica (Ensino Superior) | Professor de Astronomia (Ensino Superior),False,Profissionais das ciências e das artes
+2343,Professor de Arquitetura | Professor de Engenharia | Professor de Geofisica,False,Profissionais das ciências e das artes
+2344,Professor de Ciencias Biologicas do Ensino Superior | Professor de Educacao Fisica no Ensino Superior | Professor de Enfermagem do Ensino Superior,False,Profissionais das ciências e das artes
+2345,Professor de Ensino Superior na Area de Didatica | Professor de Ensino Superior na Area de Orientacao Educacional | Professor de Ensino Superior na Area de Pesquisa Educacional,False,Profissionais das ciências e das artes
+2346,Professor de Lingua Alema | Professor de Lingua Italiana | Professor de Lingua Francesa,False,Profissionais das ciências e das artes
+2347,Professor de Antropologia do Ensino Superior | Professor de Arquivologia do Ensino Superior | Professor de Biblioteconomia do Ensio Superior,False,Profissionais das ciências e das artes
+2348,Professor de Economia | Professor de Administracao | Professor de Contabilidade,False,Profissionais das ciências e das artes
+2349,Professor de Artes do Espetaculo no Ensino Superior | Professor de Artes Visuais no Ensino Superior (Artes Plasticas e Multimidia) | Professor de Musica no Ensino Superior,False,Profissionais das ciências e das artes
+2392,Professor de Alunos com Deficiencia Auditiva e Surdos | Professor de Alunos com Deficiencia Fisica | Professor de Alunos com Deficiencia Mental,False,Profissionais das ciências e das artes
+2394,Coordenador Pedagogico | Orientador Educacional | Pedagogo,False,Profissionais das ciências e das artes
+2410,Advogado | Advogado de Empresa | Advogado (Direito Civil),False,Profissionais das ciências e das artes
+2412,Advogado da Uniao | Procurador Autarquico | Procurador da Fazenda Nacional,False,Profissionais das ciências e das artes
+2413,Oficial de Registro de Contratos Maritimos | Oficial do Registro Civil de Pessoas Juridicas | Oficial do Registro Civil de Pessoas Naturais,False,Profissionais das ciências e das artes
+2414,Conselheiro Julgador,False,Profissionais das ciências e das artes
+2422,Procurador da Republica | Procurador de Justica | Procurador de Justica Militar,False,Profissionais das ciências e das artes
+2423,Delegado de Policia,False,Profissionais das ciências e das artes
+2424,Defensor Publico | Procurador da Assistencia Judiciaria,False,Profissionais das ciências e das artes
+2429,Oficial de Inteligencia | Oficial Tecnico de Inteligencia,False,Profissionais das ciências e das artes
+2511,Antropologo | Arqueologo | Cientista Politico,False,Profissionais das ciências e das artes
+2512,Economista | Economista Agroindustrial | Economista Financeiro,False,Profissionais das ciências e das artes
+2513,Geografo,False,Profissionais das ciências e das artes
+2514,Filosofo,False,Profissionais das ciências e das artes
+2515,Psicologo Educacional | Psicologo Clinico | Psicologo do Esporte,False,Profissionais das ciências e das artes
+2516,Assistente Social | Economista Domestico,False,Profissionais das ciências e das artes
+2521,Administrador,False,Profissionais das ciências e das artes
+2522,Auditor (Contadores e Afins) | Contador | Perito Contabil,False,Profissionais das ciências e das artes
+2523,Secretaria  Executiva | Secretario  Bilingue | Secretaria Trilingue,False,Profissionais das ciências e das artes
+2524,Analista de Recursos Humanos,False,Profissionais das ciências e das artes
+2525,Administrador de Fundos e Carteiras de Investimento | Analista de Cambio | Analista de Cobranca (Instituicoes Financeiras),False,Profissionais das ciências e das artes
+2526,Gestor em Segurança,False,Profissionais das ciências e das artes
+2527,Analista de Pcp (Programacao e Controle da Producao) | Analista de Planejamento de Materiais | Analista de Logistica,False,Profissionais das ciências e das artes
+2531,Relacoes Publicas | Redator de Publicidade | Agente Publicitario,False,Profissionais das ciências e das artes
+2532,Gerente de Captacao (Fundos e Investimentos Institucionais) | Gerente de Clientes Especiais (Private) | Gerente de Contas - Pessoa Fisica e Juridica,False,Profissionais das ciências e das artes
+2533,"Corretor de Valores, Ativos Financeiros, Mercadorias e Derivativos",False,Profissionais das ciências e das artes
+2534,Analista De Mídias Sociais | Influenciador Digital,False,Profissionais das ciências e das artes
+2541,Auditor-Fiscal da Receita Federal | Tecnico da Receita Federal,False,Profissionais das ciências e das artes
+2542,Auditor-Fiscal da Previdencia Social,False,Profissionais das ciências e das artes
+2543,Auditor-Fiscal do Trabalho | Agente de Higiene e Seguranca,False,Profissionais das ciências e das artes
+2544,Fiscal de Tributos Estadual | Fiscal de Tributos Municipal | Tecnico de Tributos Estadual,False,Profissionais das ciências e das artes
+2545,Fiscal de Atividades Urbanas,False,Profissionais das ciências e das artes
+2611,Arquivista Pesquisador (Jornalismo) | Assessor de Imprensa | Diretor de Redacao,False,Profissionais das ciências e das artes
+2612,Bibliotecario | Documentalista | Analista de Informacoes (Pesquisador de Informacoes de Rede),False,Profissionais das ciências e das artes
+2613,Arquivista | Museologo,False,Profissionais das ciências e das artes
+2614,Filologo | Interprete | Linguista,False,Profissionais das ciências e das artes
+2615,Autor-Roteirista | Critico | Escritor de Ficcao,False,Profissionais das ciências e das artes
+2616,Editor de Jornal | Editor de Livro | Editor de Midia Eletronica,False,Profissionais das ciências e das artes
+2617,Ancora de Radio e Televisao | Comentarista de Radio e Televisao | Locutor de Radio e Televisao,False,Profissionais das ciências e das artes
+2618,Fotografo | Fotografo Publicitario | Fotografo Retratista,False,Profissionais das ciências e das artes
+2619,Continuista | Assistente de Direcao (Tv),False,Profissionais das ciências e das artes
+2621,Produtor Cultural | Produtor Cinematografico | Produtor de Radio,False,Profissionais das ciências e das artes
+2622,Diretor de Cinema | Diretor de Programas de Radio | Diretor de Programas de Televisao,False,Profissionais das ciências e das artes
+2623,Cenografo Carnavalesco e Festas Populares | Cenografo de Cinema | Cenografo de Eventos,False,Profissionais das ciências e das artes
+2624,Artista (Artes Visuais) | Desenhista Industrial Grafico (Designer Grafico) | Conservador-Restaurador de Bens  Culturais,False,Profissionais das ciências e das artes
+2625,Ator,False,Profissionais das ciências e das artes
+2626,Compositor | Musico Arranjador | Musico Regente,False,Profissionais das ciências e das artes
+2627,Musico Interprete Cantor | Musico Interprete Instrumentista,False,Profissionais das ciências e das artes
+2628,Assistente de Coreografia | Bailarino (Exceto Dancas Populares) | Coreografo,False,Profissionais das ciências e das artes
+2629,Decorador de Interiores de Nivel Superior,False,Profissionais das ciências e das artes
+2631,Ministro de Culto Religioso | Missionario | Teologo,False,Profissionais das ciências e das artes
+2711,Chefe de Cozinha (Desativado em 2010) | Tecnólogo em Gastronomia,False,Profissionais das ciências e das artes
+3001,Tecnico em Mecatronica - Automacao da Manufatura | Tecnico em Mecatronica - Robotica,False,Técnicos de nível médio
+3003,Tecnico em Eletromecanica,False,Técnicos de nível médio
+3011,Tecnico de Laboratorio Industrial | Tecnico de Laboratorio de Analises Fisico-Quimicas (Materiais de Construcao) | Tecnico Quimico de Petroleo,False,Técnicos de nível médio
+3012,Tecnico de Apoio À Bioengenharia,False,Técnicos de nível médio
+3111,Tecnico Quimico | Tecnico de Celulose e Papel | Tecnico em Curtimento,False,Técnicos de nível médio
+3112,Tecnico em Petroquimica,False,Técnicos de nível médio
+3113,"Tecnico em Materiais, Produtos Ceramicos e Vidros",False,Técnicos de nível médio
+3114,Tecnico em Borracha | Tecnico em Plastico,False,Técnicos de nível médio
+3115,"Tecnico de Controle de Meio Ambiente | Tecnico de Meteorologia | Tecnico de Utilidade (Producao e Distribuicao de Vapor, Gases, Oleos, Combustiveis, Energia)",False,Técnicos de nível médio
+3116,Tecnico Textil | Tecnico Textil (Tratamentos Quimicos) | Tecnico Textil de Fiacao,False,Técnicos de nível médio
+3117,Colorista de Papel | Colorista Textil | Preparador de Tintas,False,Técnicos de nível médio
+3121,Tecnico de Obras Civis,False,Técnicos de nível médio
+3122,Tecnico de Estradas | Tecnico de Saneamento,False,Técnicos de nível médio
+3123,Tecnico em Agrimensura | Tecnico em Geodesia e Cartografia | Tecnico em Hidrografia,False,Técnicos de nível médio
+3131,"Eletrotecnico | Eletrotecnico (Producao de Energia) | Eletrotenico na Fabricacao, Montagem e Instalacao de Maquinas e Equipamentos",False,Técnicos de nível médio
+3132,Tecnico de Manutencao Eletronica | Tecnico de Manutencao Eletronica (Circuitos de Maquinas com Comando Numerico) | Tecnico Eletronico,True,Técnicos de nível médio
+3133,Tecnico de Comunicacao de Dados | Tecnico de Rede (Telecomunicacoes) | Tecnico de Telecomunicacoes (Telefonia),False,Técnicos de nível médio
+3134,"Tecnico em Calibracao | Tecnico em Instrumentacao | Encarregado de Manutencao de Instrumentos de Controle, Medicao e Similares",False,Técnicos de nível médio
+3135,Tecnico em Fotonica,False,Técnicos de nível médio
+3141,"Tecnico em Mecanica de Precisao | Tecnico Mecanico | Tecnico Mecanico (Calefacao, Ventilacao e Refrigeracao)",False,Técnicos de nível médio
+3142,Tecnico Mecanico na Fabricacao de Ferramentas | Tecnico Mecanico na Manutencao de Ferramentas,False,Técnicos de nível médio
+3143,Tecnico em Automobilistica | Tecnico Mecanico (Aeronaves) | Tecnico Mecanico (Embarcacoes),False,Técnicos de nível médio
+3144,Tecnico de Manutencao de Sistemas e Instrumentos | Tecnico em Manutencao de Maquinas,False,Técnicos de nível médio
+3146,Inspetor de Soldagem | Tecnico em Caldeiraria | Tecnico em Estruturas Metalicas,False,Técnicos de nível médio
+3147,Tecnico de Acabamento em Siderurgia | Tecnico de Aciaria em Siderurgia | Tecnico de Fundicao em Siderurgia,False,Técnicos de nível médio
+3148,Inspetor De Equipamentos | Inspetor De Fabricação | Inspetor De Ensaios Não Destrutivos,False,Técnicos de nível médio
+3161,Tecnico em Geofisica | Tecnico em Geologia | Tecnico em Geoquimica,False,Técnicos de nível médio
+3163,Tecnico de Mineracao | Tecnico de Mineracao (Oleo e Petroleo) | Tecnico em Processamento Mineral (Exceto Petroleo),False,Técnicos de nível médio
+3171,Programador de Internet | Programador de Sistemas de Informacao | Programador de Maquinas - Ferramenta com Comando Numerico,True,Técnicos de nível médio
+3172,Operador de Computador (Inclusive Microcomputador) | Tecnico de Apoio ao Usuario de Informatica (Helpdesk),True,Técnicos de nível médio
+3180,Desenhista Tecnico | Desenhista Copista | Desenhista Detalhista,False,Técnicos de nível médio
+3181,Desenhista Tecnico (Arquitetura) | Desenhista Tecnico (Cartografia) | Desenhista Tecnico (Construcao Civil),False,Técnicos de nível médio
+3182,Desenhista Tecnico Mecanico | Desenhista Tecnico Aeronautico | Desenhista Tecnico Naval,False,Técnicos de nível médio
+3183,"Desenhista Tecnico (Eletricidade e Eletronica) | Desenhista Tecnico (Calefacao, Ventilacao e Refrigeracao)",False,Técnicos de nível médio
+3184,Desenhista Tecnico (Artes Graficas) | Desenhista Tecnico (Ilustracoes Artisticas) | Desenhista Tecnico (Ilustracoes Tecnicas),False,Técnicos de nível médio
+3185,Desenhista Projetista de Arquitetura | Desenhista Projetista de Construcao Civil,False,Técnicos de nível médio
+3186,Desenhista Projetista de Maquinas | Desenhista Projetista Mecanico,False,Técnicos de nível médio
+3187,Desenhista Projetista de Eletricidade | Desenhista Projetista Eletronico,False,Técnicos de nível médio
+3188,Projetista de Moveis | Modelista de Roupas | Modelista de Calcados,False,Técnicos de nível médio
+3191,Tecnico em Calcados e Artefatos de Couro | Tecnico em Confeccoes do Vestuario,False,Técnicos de nível médio
+3192,Tecnico do Mobiliario,False,Técnicos de nível médio
+3201,Tecnico em Bioterismo | Tecnico em Histologia,False,Técnicos de nível médio
+3211,Tecnico Agricola | Tecnico Agropecuario,False,Técnicos de nível médio
+3212,Tecnico em Madeira | Tecnico Florestal,False,Técnicos de nível médio
+3213,Tecnico em Piscicultura | Tecnico em Carcinicultura | Tecnico em Mitilicultura,False,Técnicos de nível médio
+3221,Tecnico em Acupuntura | Podologo | Tecnico em Quiropraxia,False,Técnicos de nível médio
+3222,Tecnico de Enfermagem | Tecnico de Enfermagem de Terapia Intensiva | Tecnico de Enfermagem do Trabalho,False,Técnicos de nível médio
+3223,Tecnico em Optica e Optometria | Tecnico em Optometria,False,Técnicos de nível médio
+3224,Tecnico em Saude Bucal | Protetico Dentario | Auxiliar em Saude Bucal,False,Técnicos de nível médio
+3225,Tecnico de Ortopedia,False,Técnicos de nível médio
+3226,Tecnico de Imobilizacao Ortopedica,False,Técnicos de nível médio
+3231,Tecnico em Pecuaria,False,Técnicos de nível médio
+3241,Tecnico em Metodos Eletrograficos em Encefalografia | Tecnico em Metodos Graficos em Cardiologia | Tecnico em Radiologia e Imagenologia,False,Técnicos de nível médio
+3242,Tecnico em Patologia Clinica | Auxiliar Tecnico em Patologia Clinica | Citotécnico,False,Técnicos de nível médio
+3250,Enologo | Aromista | Perfumista,False,Técnicos de nível médio
+3251,Auxiliar Tecnico em Laboratorio de Farmacia | Tecnico em Laboratorio de Farmacia | Técnico em Farmácia,False,Técnicos de nível médio
+3252,Tecnico de Alimentos | Técnico em Nutrição e Dietética,False,Técnicos de nível médio
+3253,Tecnico em Biotecnologia | Tecnico em Imunobiologicos,False,Técnicos de nível médio
+3281,Embalsamador | Taxidermista,False,Técnicos de nível médio
+3311,Professor de Nivel Medio na Educacao Infantil | Auxiliar de Desenvolvimento Infantil,False,Técnicos de nível médio
+3312,Professor de Nivel Medio no Ensino Fundamental,False,Técnicos de nível médio
+3313,Professor de Nivel Medio no Ensino Profissionalizante,False,Técnicos de nível médio
+3321,Professor Leigo no Ensino Fundamental,False,Técnicos de nível médio
+3322,Professor Pratico no Ensino Profissionalizante,False,Técnicos de nível médio
+3331,Instrutor de Auto-Escola | Instrutor de Cursos Livres | Professores de Cursos Livres,False,Técnicos de nível médio
+3341,Inspetor de Alunos de Escola Privada | Inspetor de Alunos de Escola Publica | Monitor de Transporte Escolar,False,Técnicos de nível médio
+3411,Piloto Comercial (Exceto Linhas Aereas) | Piloto Comercial de Helicoptero (Exceto Linhas Aereas) | Mecanico de Voo,False,Técnicos de nível médio
+3412,Contramestre de Cabotagem | Mestre de Cabotagem | Mestre Fluvial,False,Técnicos de nível médio
+3413,Condutor Maquinista Fluvial | Condutor Maquinista Maritimo | Eletricista de Bordo,False,Técnicos de nível médio
+3421,Analista de Transporte em Comercio Exterior | Operador de Transporte Multimodal | Controlador de Servicos de Maquinas e Veiculos,False,Técnicos de nível médio
+3422,Ajudante de Despachante Aduaneiro | Despachante Aduaneiro | Analista de Desembaraco Aduaneiro,False,Técnicos de nível médio
+3423,Chefe de Servico de Transporte Rodoviario (Passageiros e Cargas) | Inspetor de Servicos de Transportes Rodoviarios (Passageiros e Cargas) | Supervisor de Carga e Descarga,False,Técnicos de nível médio
+3424,Agente de Estacao (Ferrovia e Metro) | Operador de Centro de Controle (Ferrovia e Metro),False,Técnicos de nível médio
+3425,Controlador de Trafego Aereo | Despachante Operacional de Voo | Fiscal de Aviacao Civil (Fac),False,Técnicos de nível médio
+3426,Chefe de Estacao Portuaria | Supervisor de Operacoes Portuarias,False,Técnicos de nível médio
+3511,Tecnico de Contabilidade | Chefe de Contabilidade (Tecnico) | Consultor Contabil (Tecnico),False,Técnicos de nível médio
+3513,Tecnico em Administracao | Tecnico em Administracao de Comercio Exterior | Agente de Recrutamento e Selecao,False,Técnicos de nível médio
+3514,Escrevente | Escrivao Judicial | Escrivao Extra - Judicial,False,Técnicos de nível médio
+3515,Tecnico em Secretariado | Taquigrafo | Estenotipista,False,Técnicos de nível médio
+3516,Tecnico em Seguranca no Trabalho | Técnico em Higiene Ocupacional,False,Técnicos de nível médio
+3517,Analista de Seguros (Tecnico) | Analista de Sinistros | Assistente Comercial de Seguros,False,Técnicos de nível médio
+3518,Detetive Profissional | Investigador de Policia | Papiloscopista Policial,False,Técnicos de nível médio
+3519,Agente de Inteligencia | Agente Tecnico de Inteligencia,False,Técnicos de nível médio
+3522,Agente de Defesa Ambiental | Agente de Saude Publica,False,Técnicos de nível médio
+3523,Metrologista | Agente Fiscal de Qualidade | Agente Fiscal Metrologico,False,Técnicos de nível médio
+3524,Agente de Direitos Autorais | Avaliador de Produtos do Meio de Comunicacao | Ouvidor (Ombudsman) do Meio de Comunicacao,False,Técnicos de nível médio
+3532,Tecnico de Operacoes e Servicos Bancarios - Cambio | Tecnico de Operacoes e Servicos Bancarios - Credito Imobiliario | Tecnico de Operacoes e Servicos Bancarios - Credito Rural,False,Técnicos de nível médio
+3541,Agenciador de Propaganda | Agente de Vendas de Servicos | Assistente de Vendas,False,Técnicos de nível médio
+3542,Comprador | Supervisor de Compras,False,Técnicos de nível médio
+3543,Analista de Exportacao e Importacao,False,Técnicos de nível médio
+3544,Leiloeiro | Avaliador de Imoveis | Avaliador de Bens Moveis,False,Técnicos de nível médio
+3545,Corretor de Seguros,False,Técnicos de nível médio
+3546,Corretor de Imoveis | Corretor De Grãos,False,Técnicos de nível médio
+3547,Representante Comercial Autonomo,False,Técnicos de nível médio
+3548,Tecnico em Turismo | Operador de Turismo | Agente de Viagem,False,Técnicos de nível médio
+3711,Auxiliar de Biblioteca | Tecnico em Biblioteconomia,False,Técnicos de nível médio
+3712,Colecionador de Selos e Moedas | Tecnico em Museologia,False,Técnicos de nível médio
+3713,Tecnico em Programacao Visual | Tecnico Grafico,False,Técnicos de nível médio
+3714,Recreador de Acantonamento | Recreador,False,Técnicos de nível médio
+3721,Diretor de Fotografia | Iluminador (Televisao) | Operador de Camera de Televisao,False,Técnicos de nível médio
+3722,Operador de Rede de Teleprocessamento | Radiotelegrafista,False,Técnicos de nível médio
+3731,Operador de Audio de Continuidade (Radio) | Operador de Central de Radio | Operador de Externa (Radio),False,Técnicos de nível médio
+3732,Tecnico em Operacao de Equipamentos de Producao para Televisao  e Produtoras de Video | Tecnico em Operacao de Equipamento de Exibicao de Televisao | Tecnico em Operacao de Equipamentos de Transmissao/Recepcao de Televisao,False,Técnicos de nível médio
+3741,Tecnico em Gravacao de Audio | Tecnico em Instalacao de Equipamentos de Audio | Tecnico em Masterizacao de Audio,False,Técnicos de nível médio
+3742,"Cenotecnico (Cinema, Video, Televisao, Teatro e Espetaculos) | Maquinista de Cinema e Video | Maquinista de Teatro e Espetaculos",False,Técnicos de nível médio
+3743,Operador de Projetor Cinematografico | Operador-Mantenedor de Projetor Cinematografico,False,Técnicos de nível médio
+3744,Editor de Tv  e Video | Finalizador de Filmes | Finalizador de Video,False,Técnicos de nível médio
+3751,Designer de Interiores | Designer de Vitrines | Visual Merchandiser,False,Técnicos de nível médio
+3761,Dancarino Tradicional | Dancarino Popular,False,Técnicos de nível médio
+3762,Acrobata | Artista Aereo | Artista de Circo (Outros),False,Técnicos de nível médio
+3763,Apresentador de Eventos | Apresentador de Festas Populares | Apresentador de Programas de Radio,False,Técnicos de nível médio
+3764,Modelo Artistico | Modelo de Modas | Modelo Publicitario,False,Técnicos de nível médio
+3771,Atleta Profissional (Outras Modalidades) | Atleta Profissional de Futebol | Atleta Profissional de Golfe,False,Técnicos de nível médio
+3772,Arbitro Desportivo | Arbitro de Atletismo | Arbitro de Basquete,False,Técnicos de nível médio
+3911,Cronoanalista | Cronometrista | Controlador de Entrada e Saida,False,Técnicos de nível médio
+3912,Inspetor de Qualidade | Tecnico de Garantia da Qualidade | Operador de Inspecao de Qualidade,False,Técnicos de nível médio
+3951,Tecnico de Apoio em Pesquisa e Desenvolvimento (Exceto Agropecuario e Florestal) | Tecnico de Apoio em Pesquisa e Desenvolvimento Agropecuario Florestal,False,Técnicos de nível médio
+4101,Supervisor Administrativo,False,Serviços administrativos
+4102,Supervisor de Almoxarifado | Supervisor de Cambio | Supervisor de Contas a Pagar,False,Serviços administrativos
+4110,"Auxiliar de Escritorio, em Geral | Assistente Administrativo | Atendente de Judiciario",False,Serviços administrativos
+4121,Datilografo | Digitador | Operador de Mensagens de Telecomunicacoes (Correios),False,Serviços administrativos
+4122,Continuo,False,Serviços administrativos
+4131,Analista de Folha de Pagamento | Auxiliar de Contabilidade | Auxiliar de Faturamento,False,Serviços administrativos
+4132,Atendente de Agencia | Caixa de Banco | Compensador de Banco,False,Serviços administrativos
+4141,Almoxarife | Armazenista | Balanceiro,False,Serviços administrativos
+4142,Apontador de Mao-De-Obra | Apontador de Producao | Conferente de Carga e Descarga,False,Serviços administrativos
+4151,Arquivista de Documentos | Codificador de Dados | Fitotecario,False,Serviços administrativos
+4152,Carteiro | Operador de Triagem e Transbordo | Entregador de Publicacoes,False,Serviços administrativos
+4153,Registrador de Cancer | Analista De Informação Em Saúde,False,Serviços administrativos
+4201,Supervisor de Caixas e Bilheteiros (Exceto Caixa de Banco) | Supervisor de Cobranca | Supervisor de Coletadores de Apostas e de Jogos,False,Serviços administrativos
+4211,Atendente Comercial (Agencia Postal) | Bilheteiro de Transportes Coletivos | Bilheteiro no Servico de Diversoes,False,Serviços administrativos
+4212,Recebedor de Apostas (Loteria) | Recebedor de Apostas (Turfe),False,Serviços administrativos
+4213,Cobrador Externo | Cobrador Interno | Localizador (Cobrador),False,Serviços administrativos
+4221,"Recepcionista, em Geral | Recepcionista de Consultorio Medico ou Dentario | Recepcionista de Seguro Saude",False,Serviços administrativos
+4222,Telefonista | Teleoperador | Monitor de Teleatendimento,False,Serviços administrativos
+4223,Operador de Telemarketing Ativo | Operador de Telemarketing Ativo e Receptivo | Operador de Telemarketing Receptivo,False,Serviços administrativos
+4231,Despachante Documentalista | Despachante de Trânsito,False,Serviços administrativos
+4241,Entrevistador Censitario e de Pesquisas Amostrais | Entrevistador de Pesquisa de Opiniao e Midia | Entrevistador de Pesquisas de Mercado,False,Serviços administrativos
+4242,"Coordenador de Provas (Concurso, Avaliacao, Exame) | Aplicador de Provas (Concurso, Avaliacao,Exame)",False,Serviços administrativos
+5101,Supervisor de Transportes | Administrador de Edificios | Supervisor de Andar,False,Serviços e comércio
+5102,Supervisor de Lavanderia,False,Serviços e comércio
+5103,Supervisor de Bombeiros | Supervisor de Vigilantes,False,Serviços e comércio
+5111,Comissario de Voo | Comissario de Trem | Taifeiro (Exceto Militares),False,Serviços e comércio
+5112,Fiscal de Transportes Coletivos (Exceto Trem) | Despachante de Transportes Coletivos (Exceto Trem) | Cobrador de Transportes Coletivos (Exceto Trem),False,Serviços e comércio
+5114,Guia de Turismo,False,Serviços e comércio
+5115,Condutor de Turismo de Aventura | Condutor de Turismo de Pesca,False,Serviços e comércio
+5121,Empregado  Domestico  nos Servicos Gerais | Empregado Domestico  Arrumador | Empregado Domestico  Faxineiro,False,Serviços e comércio
+5131,Mordomo de Residencia | Mordomo de Hotelaria | Governanta de Hotelaria,False,Serviços e comércio
+5132,Cozinheiro Geral | Cozinheiro do Servico Domestico | Cozinheiro Industrial,False,Serviços e comércio
+5133,Camareira de Teatro | Camareira de Televisao | Camareiro  de Hotel,False,Serviços e comércio
+5134,Garcom | Garcom (Servicos de Vinhos) | Cumim,False,Serviços e comércio
+5135,Auxiliar nos Serviços de Alimentação,False,Serviços e comércio
+5136,Churrasqueiro | Pizzaiolo | Sushiman,False,Serviços e comércio
+5141,Ascensorista | Garagista | Sacristao,False,Serviços e comércio
+5142,Coletor de Lixo Domiciliar | Faxineiro (Desativado em 01/2009) | Varredor de Rua,False,Serviços e comércio
+5143,Limpador de Vidros (Desativado em 2010) | Auxiliar de Manutenção Predial | Limpador de Fachadas,False,Serviços e comércio
+5151,Agente Comunitario de Saude | Atendente de Enfermagem | Parteira Leiga,False,Serviços e comércio
+5152,Auxiliar de Banco de Sangue | Auxiliar de Farmacia de Manipulacao | Auxiliar de Laboratorio de Analises Clinicas,False,Serviços e comércio
+5153,Educador Social | Agente de Ação Social | Monitor de Dependente Químico,False,Serviços e comércio
+5161,Barbeiro | Cabeleireiro | Esteticista (Desativado em 04/2011),False,Serviços e comércio
+5162,Baba | Cuidador de Idosos | Mae Social,False,Serviços e comércio
+5163,"Lavadeiro, em Geral | Lavador de Roupas  a Maquina | Lavador de Artefatos de Tapecaria",False,Serviços e comércio
+5164,"Lavador de Roupas | Limpador de Roupas a Seco, À Mao | Passador de Roupas, À Mao",False,Serviços e comércio
+5165,Agente Funerario,False,Serviços e comércio
+5166,Operador de Forno (Servicos Funerarios) | Sepultador,False,Serviços e comércio
+5167,Astrologo | Numerologo,False,Serviços e comércio
+5168,Esoterico | Paranormal,False,Serviços e comércio
+5171,Bombeiro de Aerodromo | Bombeiro Civil | Salva-Vidas,False,Serviços e comércio
+5172,Agente de Policia Federal | Policial Rodoviario Federal | Guarda-Civil Municipal,False,Serviços e comércio
+5173,Agente de Protecao de Aeroporto | Agente de Seguranca | Agente de Seguranca Penitenciaria,False,Serviços e comércio
+5174,Porteiro (Hotel) | Porteiro de Edificios | Porteiro de Locais de Diversao,False,Serviços e comércio
+5191,Ciclista Mensageiro | Motociclista no Transporte de Documentos e Pequenos Volumes | Mototaxista,False,Serviços e comércio
+5192,Catador de Material Reciclavel | Selecionador de Material Reciclável | Operador de Prensa de Material Reciclável,False,Serviços e comércio
+5193,Auxiliar de Veterinario | Esteticista de Animais Domesticos | Banhista de Animais Domesticos,False,Serviços e comércio
+5198,Profissional do Sexo,False,Serviços e comércio
+5199,Cartazeiro | Controlador de Pragas | Engraxate,False,Serviços e comércio
+5201,Supervisor de Vendas de Servicos | Supervisor de Vendas Comercial,False,Serviços e comércio
+5211,Vendedor em Comercio Atacadista | Vendedor de Comercio Varejista | Promotor de Vendas,False,Serviços e comércio
+5231,"Instalador de Cortinas e Persianas, Portas Sanfonadas e Boxe | Instalador de Som e Acessorios de Veiculos | Chaveiro",False,Serviços e comércio
+5241,Vendedor em Domicilio,False,Serviços e comércio
+5242,Feirante | Jornaleiro (Em Banca de Jornal) | Vendedor  Permissionario,False,Serviços e comércio
+5243,Vendedor Ambulante | Pipoqueiro Ambulante | Baiana De Acarajé,False,Serviços e comércio
+6110,"Produtor Agropecuario, em Geral",False,Agropecuária e pesca
+6120,Produtor Agricola Polivalente,False,Agropecuária e pesca
+6121,Produtor de Arroz | Produtor de Cana-De-Acucar | Produtor de Cereais de Inverno,False,Agropecuária e pesca
+6122,Produtor de Algodao | Produtor de Curaua | Produtor de Juta,False,Agropecuária e pesca
+6123,"Produtor na Olericultura de Legumes | Produtor na Olericultura de Raizes, Bulbos e Tuberculos | Produtor na Olericultura de Talos, Folhas e Flores",False,Agropecuária e pesca
+6124,Produtor de Flores de Corte | Produtor de Flores em Vaso | Produtor de Forracoes,False,Agropecuária e pesca
+6125,Produtor de Arvores Frutiferas | Produtor de Especies Frutiferas Rasteiras | Produtor de Especies Frutiferas Trepadeiras,False,Agropecuária e pesca
+6126,Cafeicultor | Produtor de Cacau | Produtor de Erva-Mate,False,Agropecuária e pesca
+6127,Produtor da Cultura de Amendoim | Produtor da Cultura de Canola | Produtor da Cultura de Coco-Da-Baia,False,Agropecuária e pesca
+6128,Produtor de Especiarias | Produtor de Plantas Aromaticas e Medicinais,False,Agropecuária e pesca
+6130,Criador em Pecuaria Polivalente | Criador de Animais Domesticos,False,Agropecuária e pesca
+6131,Criador de Asininos e Muares | Criador de Bovinos (Corte) | Criador de Bovinos (Leite),False,Agropecuária e pesca
+6132,Criador de Caprinos | Criador de Ovinos | Criador de Suinos,False,Agropecuária e pesca
+6133,Avicultor | Cunicultor,False,Agropecuária e pesca
+6134,Apicultor | Criador de Animais Produtores de Veneno | Minhocultor,False,Agropecuária e pesca
+6201,Supervisor de Exploracao Agricola | Supervisor de Exploracao Agropecuaria | Supervisor de Exploracao Pecuaria,False,Agropecuária e pesca
+6210,Trabalhador Agropecuario em Geral,False,Agropecuária e pesca
+6220,Caseiro (Agricultura) | Jardineiro | Trabalhador na Producao de Mudas e Sementes,False,Agropecuária e pesca
+6221,Trabalhador da Cultura de Arroz | Trabalhador da Cultura de Cana-De-Acucar | Trabalhador da Cultura de Milho e Sorgo,False,Agropecuária e pesca
+6222,Trabalhador da Cultura de Algodao | Trabalhador da Cultura de Sisal | Trabalhador da Cultura do Rami,False,Agropecuária e pesca
+6223,"Trabalhador na Olericultura (Frutos e Sementes) | Trabalhador na Olericultura (Legumes) | Trabalhador na Olericultura (Raizes, Bulbos e Tuberculos)",False,Agropecuária e pesca
+6224,Trabalhador no Cultivo de Flores e Folhagens de Corte | Trabalhador no Cultivo de Flores em Vaso | Trabalhador no Cultivo de Forracoes,False,Agropecuária e pesca
+6225,Trabalhador no Cultivo de Arvores Frutiferas | Trabalhador no Cultivo de Especies Frutiferas Rasteiras | Trabalhador no Cultivo de Trepadeiras Frutiferas,False,Agropecuária e pesca
+6226,Trabalhador da Cultura de Cacau | Trabalhador da Cultura de Cafe | Trabalhador da Cultura de Erva-Mate,False,Agropecuária e pesca
+6227,Trabalhador na Cultura de Amendoim | Trabalhador na Cultura de Canola | Trabalhador na Cultura de Coco-Da-Baia,False,Agropecuária e pesca
+6228,Trabalhador da Cultura de Especiarias | Trabalhador da Cultura de Plantas Aromaticas e Medicinais,False,Agropecuária e pesca
+6230,Adestrador de Animais | Inseminador | Trabalhador de Pecuaria Polivalente,False,Agropecuária e pesca
+6231,Trabalhador da Pecuaria (Asininos e Muares) | Trabalhador da Pecuaria (Bovinos Corte) | Trabalhador da Pecuaria (Bovinos Leite),False,Agropecuária e pesca
+6232,Trabalhador da Caprinocultura | Trabalhador da Ovinocultura | Trabalhador da Suinocultura,False,Agropecuária e pesca
+6233,Trabalhador da Avicultura de Corte | Trabalhador da Avicultura de Postura | Operador de Incubadora,False,Agropecuária e pesca
+6234,Trabalhador em Criatorios de Animais Produtores de Veneno | Trabalhador na Apicultura | Trabalhador na Minhocultura,False,Agropecuária e pesca
+6301,Supervisor da Aquicultura | Supervisor da Area Florestal,False,Agropecuária e pesca
+6310,Catador de Caranguejos e Siris | Catador de Mariscos | Pescador Artesanal de Lagostas,False,Agropecuária e pesca
+6311,Pescador Artesanal de Agua Doce,False,Agropecuária e pesca
+6312,Pescador Industrial | Pescador Profissional,False,Agropecuária e pesca
+6313,Criador de Camaroes | Criador de Jacares | Criador de Mexilhoes,False,Agropecuária e pesca
+6314,Gelador Industrial | Gelador Profissional | Proeiro,False,Agropecuária e pesca
+6320,Guia Florestal | Raizeiro | Viveirista Florestal,False,Agropecuária e pesca
+6321,Classificador de Toras | Cubador de Madeira | Identificador Florestal,False,Agropecuária e pesca
+6322,Seringueiro | Trabalhador da Exploracao de Especies Produtoras de Gomas nao Elasticas | Trabalhador da Exploracao de Resinas,False,Agropecuária e pesca
+6323,Trabalhador da Exploracao de Andiroba | Trabalhador da Exploracao de Babacu | Trabalhador da Exploracao de Bacaba,False,Agropecuária e pesca
+6324,Trabalhador da Exploracao de Acai | Trabalhador da Exploracao de Castanha | Trabalhador da Exploracao de Pinhao,False,Agropecuária e pesca
+6325,"Trabalhador da Exploracao de Arvores e Arbustos Produtores de Substancias Aromat., Medic. e Toxicas | Trabalhador da Exploracao de Cipos Produtores de Substancias Aromaticas, Medicinais e Toxicas | Trabalhador da Exploracao de Madeiras Tanantes",False,Agropecuária e pesca
+6326,Carvoeiro | Carbonizador | Ajudante de Carvoaria,False,Agropecuária e pesca
+6410,Operador de Colheitadeira | Operador de Maquinas de Beneficiamento de Produtos Agricolas | Tratorista Agricola,False,Agropecuária e pesca
+6420,Operador de Colhedor Florestal | Operador de Maquinas Florestais Estaticas | Operador de Trator Florestal,False,Agropecuária e pesca
+6430,Trabalhador na Operacao de Sistema de Irrigacao Localizada (Microaspersao e Gotejamento) | Trabalhador na Operacao de Sistema de Irrigacao por Aspersao (Pivo Central) | Trabalhador na Operacao de Sistemas Convencionais de Irrigacao por Aspersao,False,Agropecuária e pesca
+7101,Supervisor de Apoio Operacional na Mineracao | Supervisor de Extracao de Sal | Supervisor de Perfuracao e Desmonte,False,Produção industrial
+7102,Mestre (Construcao Civil) | Mestre de Linhas (Ferrovias) | Inspetor de Terraplenagem,False,Produção industrial
+7111,Amostrador de Minerios | Canteiro | Destrocador de Pedra,False,Produção industrial
+7112,Operador de Caminhao (Minas e Pedreiras) | Operador de Carregadeira | Operador de Maquina Cortadora (Minas e Pedreiras),False,Produção industrial
+7113,Operador de Sonda de Percussao | Operador de Sonda Rotativa | Sondador (Pocos de Petroleo e Gas),False,Produção industrial
+7114,Garimpeiro | Operador de Salina (Sal Marinho),False,Produção industrial
+7121,Moleiro de Minerios | Operador de Aparelho de Flotacao | Operador de Aparelho de Precipitacao (Minas de Ouro ou Prata),False,Produção industrial
+7122,Cortador de Pedras | Gravador de Inscricoes em Pedra | Gravador de Relevos em Pedra,False,Produção industrial
+7151,Operador de Bate-Estacas | Operador de Compactadora de Solos | Operador de Escavadeira,False,Produção industrial
+7152,Calceteiro | Pedreiro | Pedreiro (Chamines Industriais),False,Produção industrial
+7153,Armador de Estrutura de Concreto | Moldador de Corpos de Prova em Usinas de Concreto | Armador de Estrutura de Concreto Armado,False,Produção industrial
+7154,Operador de Betoneira | Operador de Bomba de Concreto | Operador de Central de Concreto,False,Produção industrial
+7155,Carpinteiro | Carpinteiro (Esquadrias) | Carpinteiro (Cenarios),False,Produção industrial
+7156,Eletricista de Instalacoes (Cenarios) | Eletricista de Instalacoes (Edificios) | Eletricista de Instalacoes,False,Produção industrial
+7157,Aplicador de Asfalto Impermeabilizante (Coberturas) | Instalador de Isolantes Acusticos | Instalador de Isolantes Termicos (Refrigeracao e Climatizacao),False,Produção industrial
+7161,Acabador de Superficies de Concreto | Revestidor de Superficies de Concreto,False,Produção industrial
+7162,Telhador (Telhas de Argila e Materias Similares) | Telhador (Telhas de Cimento-Amianto) | Telhador (Telhas Metalicas),False,Produção industrial
+7163,Vidraceiro | Vidraceiro (Edificacoes) | Vidraceiro (Vitrais),False,Produção industrial
+7164,Gesseiro,False,Produção industrial
+7165,Assoalhador | Ladrilheiro | Pastilheiro,False,Produção industrial
+7166,"Calafetador | Pintor de Obras | Revestidor de Interiores (Papel, Material Plastico e Emborrachados)",False,Produção industrial
+7170,Demolidor de Edificacoes | Operador de Martelete | Poceiro (Edificacoes),False,Produção industrial
+7201,Mestre (Afiador de Ferramentas) | Mestre de Caldeiraria | Mestre de Ferramentaria,False,Produção industrial
+7202,Mestre (Construcao Naval) | Mestre (Industria de Automotores e Material de Transportes) | Mestre (Industria de Maquinas e Outros Equipamentos Mecanicos),False,Produção industrial
+7211,"Ferramenteiro | Ferramenteiro de Mandris, Calibradores e Outros Dispositivos | Modelador de Metais (Fundicao)",False,Produção industrial
+7212,Operador de Maquina de Eletroerosao | Operador de Maquinas Operatrizes | Operador de Maquinas-Ferramenta Convencionais,False,Produção industrial
+7213,Afiador de Cardas | Afiador de Cutelaria | Afiador de Ferramentas,False,Produção industrial
+7214,Operador de Centro de Usinagem com Comando Numerico | Operador de Fresadora com Comando Numerico | Operador de Mandriladora com Comando Numerico,False,Produção industrial
+7221,Forjador | Forjador a Martelo | Forjador Prensista,False,Produção industrial
+7222,Fundidor de Metais | Lingotador | Operador de Acabamento de Pecas Fundidas,False,Produção industrial
+7223,"Macheiro, a Mao | Macheiro, a  Maquina | Moldador, a  Mao",False,Produção industrial
+7224,"Cableador | Estirador de Tubos de Metal sem Costura | Trefilador de Metais, À Maquina",False,Produção industrial
+7231,Cementador de Metais | Normalizador de Metais e de Compositos | Operador de Equipamento para Resfriamento,False,Produção industrial
+7232,Decapador | Fosfatizador | Galvanizador,False,Produção industrial
+7233,Operador de Equipamento de Secagem de Pintura | Pintor a Pincel e Rolo (Exceto Obras e Estruturas Metalicas) | Pintor de Estruturas Metalicas,False,Produção industrial
+7241,Assentador de Canalizacao (Edificacoes) | Encanador | Instalador de Tubulacoes,False,Produção industrial
+7242,Montador de Estruturas Metalicas | Montador de Estruturas Metalicas de Embarcacoes | Rebitador a  Martelo Pneumatico,False,Produção industrial
+7243,Brasador | Oxicortador a Mao e a  Maquina | Soldador,False,Produção industrial
+7244,Caldeireiro (Chapas de Cobre) | Caldeireiro (Chapas de Ferro e Aco) | Chapeador,False,Produção industrial
+7245,Operador de Maquina de Cilindrar Chapas | Operador de Maquina de Dobrar Chapas | Prensista (Operador de Prensa),False,Produção industrial
+7246,Operador de Lacos de Cabos de Aco | Trancador de Cabos de Aco,False,Produção industrial
+7250,Ajustador Ferramenteiro | Ajustador Mecanico | Ajustador Mecanico (Usinagem em Bancada e em Maquinas-Ferramentas),False,Produção industrial
+7251,"Montador de Maquinas, Motores e Acessorios (Montagem em Serie)",False,Produção industrial
+7252,Montador de Maquinas | Montador de Maquinas Graficas | Montador de Maquinas Operatrizes para Madeira,False,Produção industrial
+7253,Montador de Equipamento de Levantamento | Montador de Maquinas Agricolas | Montador de Maquinas de Minas e Pedreiras,False,Produção industrial
+7254,Mecanico Montador de Motores de Aeronaves | Mecanico Montador de Motores de Embarcacoes | Mecanico Montador de Motores de Explosao e Diesel,False,Produção industrial
+7255,Montador de Veiculos (Linha de Montagem) | Operador de Time de Montagem,False,Produção industrial
+7256,Montador de Estruturas de Aeronaves | Montador de Sistemas de Combustivel de Aeronaves,False,Produção industrial
+7257,Mecanico de Refrigeracao,False,Produção industrial
+7301,Supervisor de Montagem e Instalacao Eletroeletronica,False,Produção industrial
+7311,Montador de Equipamentos Eletronicos (Aparelhos Medicos) | Montador de Equipamentos Eletronicos (Computadores e Equipamentos Auxiliares) | Montador de Equipamentos Eletricos (Instrumentos de Medicao),False,Produção industrial
+7312,"Montador de Equipamentos Eletronicos (Estacao de Radio, Tv e Equipamentos de Radar)",False,Produção industrial
+7313,Instalador-Reparador de Equipamentos de Comutacao em Telefonia | Instalador-Reparador de Equipamentos de Energia em Telefonia | Instalador-Reparador de Equipamentos de Transmissao em Telefonia,False,Produção industrial
+7321,"Eletricista de Manutencao de Linhas Eletricas, Telefonicas e de Comunicacao de Dados | Emendador de Cabos Eletricos e Telefonicos (Aereos e Subterraneos) | Examinador de Cabos, Linhas Eletricas e Telefonicas",False,Produção industrial
+7401,Supervisor da Mecanica de Precisao | Supervisor de Fabricacao de Instrumentos Musicais,False,Produção industrial
+7411,Ajustador de Instrumentos de Precisao | Montador de Instrumentos de Optica | Montador de Instrumentos de Precisao,False,Produção industrial
+7421,Afinador de Instrumentos Musicais | Confeccionador de Acordeao | Confeccionador de Instrumentos de Corda,False,Produção industrial
+7501,Supervisor de Joalheria,False,Produção industrial
+7502,Supervisor da Industria de Minerais nao Metalicos (Exceto Os Derivados de Petroleo e Carvao),False,Produção industrial
+7510,Engastador (Joias) | Joalheiro | Joalheiro (Reparacoes),False,Produção industrial
+7511,Bate-Folha a  Maquina | Fundidor (Joalheria e Ourivesaria) | Gravador (Joalheria e Ourivesaria),False,Produção industrial
+7521,Artesao Modelador (Vidros) | Moldador (Vidros) | Soprador de Vidro,False,Produção industrial
+7522,Aplicador Serigrafico em Vidros | Cortador de Vidro | Gravador de Vidro a  Agua-Forte,False,Produção industrial
+7523,Ceramista | Ceramista (Torno de Pedal e Motor) | Ceramista (Torno Semi-Automatico),False,Produção industrial
+7524,Decorador de Ceramica | Decorador de Vidro | Decorador de Vidro À Pincel,False,Produção industrial
+7601,Contramestre de Acabamento (Industria Textil) | Contramestre de Fiacao (Industria Textil) | Contramestre de Malharia (Industria Textil),False,Produção industrial
+7602,Supervisor de Curtimento,False,Produção industrial
+7603,Encarregado de Corte na Confeccao do Vestuario | Encarregado de Costura na Confeccao do Vestuario,False,Produção industrial
+7604,Supervisor  (Industria de Calcados e Artefatos de Couro),False,Produção industrial
+7605,"Supervisor da Confeccao de Artefatos de Tecidos, Couros e Afins",False,Produção industrial
+7606,Supervisor das Artes Graficas  (Industria Editorial e Grafica),False,Produção industrial
+7610,Operador Polivalente da Industria Textil,False,Produção industrial
+7611,Classificador de Fibras Texteis | Lavador de La,False,Produção industrial
+7612,Operador de Abertura (Fiacao) | Operador de Binadeira | Operador de Bobinadeira,False,Produção industrial
+7613,Tecelao (Redes) | Tecelao (Rendas e Bordados) | Tecelao (Tear Automatico),False,Produção industrial
+7614,Alvejador (Tecidos) | Estampador de Tecido | Operador de Calandras (Tecidos),False,Produção industrial
+7618,Inspetor de Estamparia (Producao Textil) | Revisor de Fios (Producao Textil) | Revisor de Tecidos Acabados,False,Produção industrial
+7620,Trabalhador Polivalente do Curtimento de Couros e Peles,False,Produção industrial
+7621,"Classificador de Peles | Descarnador de Couros e Peles, À Maquina | Estirador de Couros e Peles (Preparacao)",False,Produção industrial
+7622,Curtidor (Couros e Peles) | Classificador de Couros | Enxugador de Couros,False,Produção industrial
+7623,Estirador de Couros e Peles (Acabamento) | Fuloneiro no Acabamento de Couros e Peles | Lixador de Couros e Peles,False,Produção industrial
+7630,Alfaiate | Costureira de Pecas Sob Encomenda | Costureira de Reparacao de Roupas,False,Produção industrial
+7631,Auxiliar de Corte (Preparacao da Confeccao de Roupas) | Cortador de Roupas | Enfestador de Roupas,False,Produção industrial
+7632,"Costureiro de Roupas de Couro e Pele, a  Maquina na  Confeccao em Serie | Costureiro na Confeccao em Serie | Costureiro, a  Maquina  na Confeccao em Serie",False,Produção industrial
+7633,"Arrematadeira | Bordador, À Maquina | Marcador de Pecas Confeccionadas para Bordar",False,Produção industrial
+7640,Trabalhador Polivalente da Confeccao de Calcados,False,Produção industrial
+7641,"Cortador de Calcados, a  Maquina (Exceto Solas e Palmilhas) | Cortador de Solas e Palmilhas, a  Maquina | Preparador de Calcados",False,Produção industrial
+7642,"Costurador de Calcados, a  Maquina | Montador de Calcados",False,Produção industrial
+7643,Acabador de Calcados,False,Produção industrial
+7650,Confeccionador de Artefatos de Couro (Exceto Sapatos) | Chapeleiro de Senhoras | Boneleiro,False,Produção industrial
+7651,Cortador de Artefatos de Couro (Exceto Roupas e Calcados) | Cortador de Tapecaria,False,Produção industrial
+7652,"Colchoeiro (Confeccao de Colchoes) | Confeccionador de Brinquedos de Pano | Confeccionador de Velas Nauticas, Barracas e Toldos",False,Produção industrial
+7653,"Costurador de Artefatos de Couro, a  Maquina (Exceto Roupas e Calcados) | Montador de Artefatos de Couro (Exceto Roupas e Calcados)",False,Produção industrial
+7654,Trabalhador do Acabamento de Artefatos de Tecidos e Couros,False,Produção industrial
+7661,Copiador de Chapa | Gravador de Matriz para Flexografia (Clicherista) | Editor de Texto e Imagem,True,Produção industrial
+7662,Impressor (Serigrafia) | Impressor Calcografico | Impressor de Ofsete (Plano e Rotativo),False,Produção industrial
+7663,Acabador de Embalagens (Flexiveis e Cartotecnicas) | Impressor de Corte e Vinco | Operador de Acabamento (Industria Grafica),False,Produção industrial
+7664,"Laboratorista Fotografico | Revelador de Filmes Fotograficos, em Preto e Branco | Revelador de Filmes Fotograficos, em Cores",False,Produção industrial
+7681,"Tecelao (Tear Manual) | Tecelao de Tapetes, a  Mao | Tricoteiro, À Mao",False,Produção industrial
+7682,"Bordador, a  Mao | Cerzidor",False,Produção industrial
+7683,"Artifice do Couro | Cortador de Calcados, a  Mao (Exceto Solas) | Costurador de Artefatos de Couro, a  Mao (Exceto Roupas e Calcados)",False,Produção industrial
+7686,Tipografo | Linotipista | Monotipista,False,Produção industrial
+7687,"Gravador, À Mao (Encadernacao) | Restaurador de Livros",False,Produção industrial
+7701,Mestre (Industria de Madeira e Mobiliario) | Mestre Carpinteiro,False,Produção industrial
+7711,Marceneiro | Modelador de Madeira | Maquetista na Marcenaria,False,Produção industrial
+7721,Classificador de Madeira | Impregnador de Madeira | Secador de Madeira,False,Produção industrial
+7731,Cortador de Laminados de Madeira | Operador de Serras no Desdobramento de Madeira | Serrador de Bordas no Desdobramento de Madeira,False,Produção industrial
+7732,Operador de Maquina Intercaladora e Placas (Compensados) | Prensista de Aglomerados | Prensista de Compensados,False,Produção industrial
+7733,Operador de Desempenadeira na Usinagem Convencional de Madeira | Operador de Entalhadeira (Usinagem de Madeira) | Operador de Fresadora (Usinagem de Madeira),False,Produção industrial
+7734,Operador de Maquina Bordatriz | Operador de Maquina de Cortina D´Agua (Producao de Moveis) | Operador de Maquina de Usinagem de Madeira (Producao em Serie),False,Produção industrial
+7735,Operador de Centro de Usinagem de Madeira (Cnc) | Operador de Maquinas de Usinar Madeira (Cnc),False,Produção industrial
+7741,Montador de Moveis e Artefatos de Madeira,False,Produção industrial
+7751,Entalhador  de Madeira | Folheador de Moveis de Madeira | Lustrador de Pecas de Madeira,False,Produção industrial
+7764,"Cesteiro | Confeccionador de Escovas, Pinceis e Produtos Similares (A Mao) | Confeccionador de Escovas, Pinceis e Produtos Similares (A Maquina)",False,Produção industrial
+7771,Carpinteiro Naval (Construcao de Pequenas Embarcacoes) | Carpinteiro Naval (Embarcacoes) | Carpinteiro Naval (Estaleiros),False,Produção industrial
+7772,Carpinteiro de Carretas | Carpinteiro de Carrocerias,False,Produção industrial
+7801,Supervisor de Embalagem e Etiquetagem,False,Produção industrial
+7811,Condutor de Processos Robotizados de Pintura | Condutor de Processos Robotizados de Soldagem,False,Produção industrial
+7813,Operador de Veiculos Subaquaticos Controlados Remotamente | Operador De Aeronaves Não Tripuladas,False,Produção industrial
+7817,Mergulhador Profissional (Raso e Profundo),False,Produção industrial
+7821,Operador de Draga | Operador de Guindaste (Fixo) | Operador de Guindaste Movel,False,Produção industrial
+7822,Guincheiro (Construcao Civil) | Operador de Docagem | Operador de Empilhadeira,False,Produção industrial
+7823,Motorista de Carro de Passeio | Motorista de Furgao ou Veiculo Similar | Motorista de Taxi,False,Produção industrial
+7824,Motorista de Onibus Rodoviario | Motorista de Onibus Urbano | Motorista de Trolebus,False,Produção industrial
+7825,Caminhoneiro Autonomo (Rotas Regionais e Internacionais) | Motorista de Caminhao (Rotas Regionais e Internacionais) | Motorista Operacional de Guincho,False,Produção industrial
+7826,Operador de Trem de Metro | Maquinista de Trem | Maquinista de Trem Metropolitano,False,Produção industrial
+7827,Marinheiro de Conves (Maritimo e Fluviario) | Marinheiro de Maquinas | Moco de Conves (Maritimo e Fluviario),False,Produção industrial
+7828,Condutor de Veiculos de Tracao Animal (Ruas e Estradas) | Tropeiro | Boiadeiro,False,Produção industrial
+7831,Agente de Patio | Manobrador,False,Produção industrial
+7832,Carregador (Aeronaves) | Carregador (Armazem) | Carregador (Veiculos de Transportes Terrestres),False,Produção industrial
+7841,"Embalador, a Mao | Embalador, a Maquina | Operador de Maquina de Etiquetar",False,Produção industrial
+7842,Alimentador de Linha de Producao,False,Produção industrial
+7911,Artesão Bordador | Artesão Ceramista | Artesão com Material Reciclável,False,Produção industrial
+8101,Mestre (Industria Petroquimica e Carboquimica) | Mestre de Producao Quimica,False,Produção industrial
+8102,Mestre (Industria de Borracha e Plastico),False,Produção industrial
+8103,Mestre de Producao Farmaceutica,False,Produção industrial
+8110,"Operador de Processos Quimicos e Petroquimicos | Operador de Sala de Controle de Instalacoes Quimicas, Petroquimicas e Afins",False,Produção industrial
+8111,Moleiro (Tratamentos Quimicos e Afins) | Operador de Maquina Misturadeira (Tratamentos Quimicos e Afins) | Operador de Britadeira (Tratamentos Quimicos e Afins),False,Produção industrial
+8112,Operador de Calcinacao (Tratamento Quimico e Afins) | Operador de Tratamento Quimico de Materiais Radioativos,False,Produção industrial
+8113,Operador de Centrifugadora (Tratamentos Quimicos e Afins) | Operador de Exploracao de Petroleo | Operador de Filtro de Secagem (Mineracao),False,Produção industrial
+8114,"Destilador de Madeira | Destilador de Produtos Quimicos (Exceto Petroleo) | Operador de Alambique de Funcionamento Continuo (Produtos Quimicos, Exceto Petroleo)",False,Produção industrial
+8115,Operador de Painel de Controle (Refinacao de Petroleo) | Operador de Transferencia e Estocagem - na Refinacao do Petroleo,False,Produção industrial
+8116,Operador de Britador de Coque | Operador de Carro de Apagamento e Coque | Operador de Destilacao e Subprodutos de Coque,False,Produção industrial
+8117,Bamburista | Calandrista de Borracha | Confeccionador de Pneumaticos,False,Produção industrial
+8118,Operador de Maquina de Produtos Farmaceuticos | Drageador (Medicamentos) | Operador de Maquina de Fabricacao de Cosmeticos,False,Produção industrial
+8121,Pirotecnico | Trabalhador da Fabricacao de Municao e Explosivos,False,Produção industrial
+8131,"Cilindrista (Petroquimica e Afins) | Operador de Calandra (Quimica, Petroquimica e Afins) | Operador de Extrusora (Quimica, Petroquimica e Afins)",False,Produção industrial
+8181,Assistente de Laboratorio Industrial | Auxiliar de Laboratorio de Analises Fisico-Quimicas,False,Produção industrial
+8201,Mestre de Siderurgia | Mestre de Aciaria | Mestre de Alto-Forno,False,Produção industrial
+8202,"Supervisor de Fabricacao de Produtos Ceramicos, Porcelanatos e Afins | Supervisor de Fabricacao de Produtos de Vidro",False,Produção industrial
+8211,Operador de Centro de Controle | Operador de Maquina de Sinterizar,False,Produção industrial
+8212,Forneiro e Operador (Alto-Forno) | Forneiro e Operador (Conversor a Oxigenio) | Forneiro e Operador (Forno Eletrico),False,Produção industrial
+8213,Operador de Laminador | Operador de Laminador de Barras a Frio | Operador de Laminador de Barras a Quente,False,Produção industrial
+8214,Encarregado de Acabamento de Chapas e Metais  (Tempera) | Escarfador | Marcador de Produtos (Siderurgico e Metalurgico),False,Produção industrial
+8221,Forneiro de Cubilo | Forneiro de Forno-Poco | Forneiro de Fundicao (Forno de Reducao),False,Produção industrial
+8231,Preparador de Massa (Fabricacao de Abrasivos) | Preparador de Massa (Fabricacao de Vidro) | Preparador de Massa de Argila,False,Produção industrial
+8232,Extrusor de Fios ou Fibras de Vidro | Forneiro na Fundicao de Vidro | Forneiro no Recozimento de Vidro,False,Produção industrial
+8233,Classificador e Empilhador de Tijolos Refratarios | Forneiro (Materiais de Construcao) | Trabalhador da Elaboracao de Pre-Fabricados (Cimento Amianto),False,Produção industrial
+8281,Oleiro (Fabricacao de Telhas) | Oleiro (Fabricacao de Tijolos),False,Produção industrial
+8301,"Mestre (Industria de Celulose, Papel e Papelao)",False,Produção industrial
+8311,Cilindreiro na Preparacao de Pasta para Fabricacao de Papel | Operador de Branqueador de Pasta para Fabricacao de Papel | Operador de Digestor de Pasta para Fabricacao de Papel,False,Produção industrial
+8321,Calandrista de Papel | Operador de Cortadeira de Papel | Operador de Maquina de Fabricar Papel  (Fase Umida),False,Produção industrial
+8331,"Cartonageiro, a Maquina | Confeccionador de Bolsas, Sacos e Sacolas e Papel, a Maquina | Confeccionador de Sacos de Celofane, a Maquina",False,Produção industrial
+8332,"Cartonageiro, a Mao (Caixas de Papelao)",False,Produção industrial
+8401,Supervisor de Producao da Industria Alimenticia | Supervisor da Industria de Bebidas | Supervisor da Industria de Fumo,False,Produção industrial
+8411,Moleiro de Cereais (Exceto Arroz) | Moleiro de Especiarias | Operador de Processo de Moagem,False,Produção industrial
+8412,Moedor de Sal | Refinador de Sal,False,Produção industrial
+8413,Operador de Cristalizacao na Refinacao de Acucar | Operador de Equipamentos de Refinacao de Acucar (Processo Continuo) | Operador de Moenda na Fabricacao de Acucar,False,Produção industrial
+8414,Cozinhador (Conservacao de Alimentos) | Cozinhador de Carnes | Cozinhador de Frutas e Legumes,False,Produção industrial
+8415,Trabalhador de Tratamento do Leite e Fabricacao de Laticinios e Afins,False,Produção industrial
+8416,Misturador de Cafe | Torrador de Cafe | Moedor de Cafe,False,Produção industrial
+8417,Alambiqueiro | Filtrador de Cerveja | Fermentador,False,Produção industrial
+8418,"Operador de Forno (Fabricacao de Paes, Biscoitos e Similares) | Operador de Maquinas de Fabricacao de Doces, Salgados e Massas Alimenticias | Operador de Maquinas de Fabricacao de Chocolates e Achocolatados",False,Produção industrial
+8421,Preparador de Melado e Essencia de Fumo | Processador de Fumo | Classificador de Fumo,False,Produção industrial
+8422,Preparador de Fumo na Fabricacao de Charutos | Operador de Maquina de Fabricar Charutos e Cigarrilhas | Classificador de Charutos,False,Produção industrial
+8423,Operador de Maquina de Fabricar Cigarros,False,Produção industrial
+8481,"Defumador de Carnes e Pescados | Salgador de Alimentos | Salsicheiro (Fabricacao de Linguica, Salsicha e Produtos Similares)",False,Produção industrial
+8482,Pasteurizador | Queijeiro na Fabricacao de Laticinio | Manteigueiro na Fabricacao de Laticinio,False,Produção industrial
+8483,Padeiro | Confeiteiro | Masseiro (Massas Alimenticias),False,Produção industrial
+8484,Degustador de Cafe | Degustador de Cha | Degustador de Derivados de Cacau,False,Produção industrial
+8485,Abatedor | Acougueiro | Desossador,False,Produção industrial
+8486,Trabalhador do Beneficiamento de Fumo,False,Produção industrial
+8601,"Supervisor de Manutencao Eletromecanica (Utilidades) | Supervisor de Operacao de Fluidos (Distribuicao, Captacao, Tratamento de Agua, Gases, Vapor) | Supervisor de Operacao Eletrica (Geracao, Transmissao e Distribuicao de Energia Eletrica)",False,Produção industrial
+8611,Operador de Central Hidreletrica | Operador de Quadro de Distribuicao de Energia Eletrica | Operador de Central Termoeletrica,False,Produção industrial
+8612,Operador de Subestacao,False,Produção industrial
+8621,Foguista (Locomotivas a Vapor) | Maquinista de Embarcacoes | Operador de Bateria de Gas de Hulha,False,Produção industrial
+8622,"Operador de Estacao de Captacao, Tratamento e Distribuicao de Agua",False,Produção industrial
+8623,"Operador de Estacao de Tratamento de Agua e Efluentes | Operador de Forno de Incineracao no Tratamento de Agua, Efluentes e Residuos Industriais",False,Produção industrial
+8624,"Operador de Instalacao de Extracao, Processamento, Envasamento e Distribuicao de Gases",False,Produção industrial
+8625,Operador de Instalacao de Refrigeracao | Operador de Refrigeracao com Amonia | Operador de Instalacao de Ar-Condicionado,False,Produção industrial
+9101,"Encarregado de Manutencao Mecanica de Sistemas Operacionais | Supervisor de Manutencao de Aparelhos Termicos, de Climatizacao e de Refrigeracao | Supervisor de Manutencao de Bombas, Motores, Compressores e Equipamentos de Transmissao",False,Manutenção e reparação
+9102,Supervisor da Manutencao e Reparacao de Veiculos Leves | Supervisor da Manutencao e Reparacao de Veiculos Pesados,False,Manutenção e reparação
+9109,Supervisor de Reparos Linhas Ferreas | Supervisor de Manutencao de Vias Ferreas,False,Manutenção e reparação
+9111,Mecanico de Manutencao de Bomba Injetora (Exceto de Veiculos Automotores) | Mecanico de Manutencao de Bombas | Mecanico de Manutencao de Compressores de Ar,False,Manutenção e reparação
+9112,Mecanico de Manutencao e Instalacao de Aparelhos de Climatizacao e  Refrigeracao,False,Manutenção e reparação
+9113,"Mecanico de Manutencao de Maquinas, em Geral | Mecanico de Manutencao de Maquinas Graficas | Mecanico de Manutencao de Maquinas Operatrizes (Lavra de Madeira)",False,Manutenção e reparação
+9131,Mecanico de Manutencao de Aparelhos de Levantamento | Mecanico de Manutencao de Equipamento de Mineracao | Mecanico de Manutencao de Maquinas Agricolas,False,Manutenção e reparação
+9141,"Mecanico de Manutencao de Aeronaves, em Geral | Mecanico de Manutencao de Sistema Hidraulico de Aeronaves (Servicos de Pista e Hangar)",False,Manutenção e reparação
+9142,Mecanico de Manutencao de Motores e Equipamentos Navais,False,Manutenção e reparação
+9143,Mecanico de Manutencao de Veiculos Ferroviarios,False,Manutenção e reparação
+9144,"Mecanico de Manutencao de Automoveis, Motocicletas e Veiculos Similares | Mecanico de Manutencao de Empilhadeiras e Outros Veiculos de Cargas Leves | Mecanico de Manutencao de Motocicletas",False,Manutenção e reparação
+9151,Tecnico em Manutencao de Instrumentos de Medicao e Precisao | Tecnico em Manutencao de Hidrometros | Tecnico em Manutencao de Balancas,False,Manutenção e reparação
+9152,Restaurador de Instrumentos Musicais (Exceto Cordas Arcadas) | Reparador de Instrumentos Musicais | Luthier (Restauracao de Cordas Arcadas),False,Manutenção e reparação
+9153,Tecnico em Manutencao de Equipamentos e Instrumentos Medico-Hospitalares,False,Manutenção e reparação
+9154,Reparador de Equipamentos Fotograficos,False,Manutenção e reparação
+9191,Lubrificador Industrial | Lubrificador de Veiculos Automotores (Exceto Embarcacoes) | Lubrificador de Embarcacoes,False,Manutenção e reparação
+9192,"Mecanico de Manutencao de Maquinas Cortadoras de Grama, Rocadeiras, Motosserras e Similares",False,Manutenção e reparação
+9193,Mecanico de Manutencao de Aparelhos Esportivos e de Ginastica | Mecanico de Manutencao de Bicicletas e Veiculos Similares | Montador de Bicicletas,False,Manutenção e reparação
+9501,"Supervisor de Manutencao Eletrica de Alta Tensao Industrial | Supervisor de Manutencao Eletromecanica Industrial, Comercial e Predial",False,Manutenção e reparação
+9502,Encarregado de Manutencao Eletrica de Veiculos,False,Manutenção e reparação
+9503,Supervisor de Manutencao Eletromecanica,False,Manutenção e reparação
+9511,Eletricista de Manutencao Eletroeletronica,False,Manutenção e reparação
+9513,Instalador de Sistemas Eletroeletronicos de Seguranca | Mantenedor de Sistemas Eletroeletronicos de Seguranca | Monitor de Sistemas Eletronicos de Seguranca Interno,False,Manutenção e reparação
+9531,"Eletricista de Instalacoes (Aeronaves) | Eletricista de Instalacoes (Embarcacoes) | Eletricista de Instalacoes (Veiculos Automotores e Maquinas Operatrizes, Exceto Aeronaves e Embarcacoes)",False,Manutenção e reparação
+9541,Eletromecanico de Manutencao de Elevadores | Eletromecanico de Manutencao de Escadas Rolantes | Eletromecanico de Manutencao de Portas Automaticas,False,Manutenção e reparação
+9542,"Reparador de Aparelhos Eletrodomesticos (Exceto Imagem e Som) | Reparador de Radio, Tv e Som",False,Manutenção e reparação
+9543,Reparador de Equipamentos de Escritorio,False,Manutenção e reparação
+9911,Conservador de Via Permanente (Trilhos) | Inspetor de Via Permanente (Trilhos) | Operador de Maquinas Especiais em Conservacao de Via Permanente (Trilhos),False,Manutenção e reparação
+9912,Mantenedor de Equipamentos de Parques de Diversoes e Similares,False,Manutenção e reparação
+9913,Funileiro de Veiculos (Reparacao) | Montador de Veiculos (Reparacao) | Pintor de Veiculos (Reparacao),False,Manutenção e reparação
+9914,Trabalhador da Manutencao de Edificacoes (Desativado em 01/2009) | Conservador de Fachadas (Desativado em 01/2009) | Limpador de Fachadas (Desativado em 01/2009),False,Manutenção e reparação
+9921,Alinhador de Pneus | Balanceador | Borracheiro,False,Manutenção e reparação
+9922,Encarregado Geral de Operacoes de Conservacao de Vias Permanentes (Exceto Trilhos) | Encarregado de Equipe de Conservacao de Vias Permanentes (Exceto Trilhos) | Operador de Ceifadeira na Conservacao de Vias Permanentes,False,Manutenção e reparação
+9999,Não Identificado,False,Manutenção e reparação
