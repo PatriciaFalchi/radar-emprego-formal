@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados brutos (arquivos grandes, não vão para o GitHub)
+dados_brutos/
+*.7z
