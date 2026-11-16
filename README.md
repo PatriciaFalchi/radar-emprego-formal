@@ -69,10 +69,10 @@ Estas decisões afetam os números. Estão registradas aqui para que qualquer pe
 - **Salário médio de admissão.** Considera apenas admissões com unidade de salário **mensal** (código 5) e valor entre **R$ 500 e R$ 100.000**. Isso exclui salários por hora, dia, tarefa ou variável (que não são comparáveis), zeros e valores claramente digitados errado. A média é calculada como soma dos salários ÷ quantidade de salários válidos, para continuar correta em qualquer filtro. Entre 89,6% e 92,6% das admissões de cada mês entram nesse cálculo.
 - **Valores nominais.** Os salários não foram corrigidos pela inflação.
 - **Faixas etárias:** até 17, 18–24, 25–29, 30–39, 40–49, 50–64, 65 ou mais e "não informada".
-- **Escolaridade agrupada** em sete grupos (fundamental incompleto até pós-graduação) para facilitar a leitura.
+- **Escolaridade agrupada** em sete grupos, mais ‘não informado’ (fundamental incompleto até pós-graduação) para facilitar a leitura.
 - **Famílias de ocupação (CBO).** A análise por ocupação usa os 4 primeiros dígitos da CBO. Duas famílias (3227 e 5169) aparecem nos microdados, mas não existem no layout oficial; foram incluídas na dimensão e classificadas pelo grande grupo. Os nomes das ocupações vêm sem acento, como no layout do MTE.
-- **Recorte "TI e dados".** É uma aproximação por famílias da CBO: 1236, 1425, 2112, 2122, 2123, 2124, 3171 e 3172 (diretores e gerentes de TI, estatísticos, engenheiros, analistas e administradores de sistemas e bancos de dados, programadores e operadores). Não há uma ocupação "cientista de dados" separada nessa classificação, então o recorte não captura todo o mercado de dados.
-- **UF e setor não identificados** aparecem como "NI" ou "Não identificado" e foram excluídos dos gráficos por UF e dos rankings.
+- **Recorte "TI e dados".** É uma aproximação por famílias da CBO: 1236, 1425, 2112, 2122, 2123, 2124, 3171 e 3172 (diretores e gerentes de TI, estatísticos, engenheiros, analistas e administradores de sistemas e bancos de dados, programadores e operadores). O recorte é feito por famílias de 4 dígitos, então não isola cargos específicos (como cientista de dados) e pode incluir ocupações próximas.
+- **Não identificados.** A UF "NI" foi excluída dos gráficos por UF e dos rankings. No gráfico por setor, a categoria "Não identificado" foi mantida (saldo de −47 no período).
 
 ## Validação
 
