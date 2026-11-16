@@ -1,17 +1,17 @@
 ﻿familia,exemplos,grande_grupo,familia_4d,ti_dados,segmento
-101,Oficial General da Aeronautica | Oficial General do Exercito | Oficial General da Marinha,"Forças armadas, policiais e bombeiros militares",101,False,Demais ocupações
-102,Oficial da Aeronautica | Oficial do Exercito | Oficial da Marinha,"Forças armadas, policiais e bombeiros militares",102,False,Demais ocupações
-103,Praca da Aeronautica | Praca do Exercito | Praca da Marinha,"Forças armadas, policiais e bombeiros militares",103,False,Demais ocupações
-201,Coronel da Policia Militar | Tenente-Coronel da Policia Militar | Major da Policia Militar,"Forças armadas, policiais e bombeiros militares",201,False,Demais ocupações
-202,Capitao da Policia Militar,"Forças armadas, policiais e bombeiros militares",202,False,Demais ocupações
-203,Primeiro Tenente de Policia Militar | Segundo Tenente de Policia Militar,"Forças armadas, policiais e bombeiros militares",203,False,Demais ocupações
-211,Subtenente da Policia Militar | Sargento da Policia Militar,"Forças armadas, policiais e bombeiros militares",211,False,Demais ocupações
-212,Cabo da Policia Militar | Soldado da Policia Militar,"Forças armadas, policiais e bombeiros militares",212,False,Demais ocupações
-301,Coronel Bombeiro Militar | Major Bombeiro Militar | Tenente-Coronel Bombeiro Militar,"Forças armadas, policiais e bombeiros militares",301,False,Demais ocupações
-302,Capitao Bombeiro Militar,"Forças armadas, policiais e bombeiros militares",302,False,Demais ocupações
-303,Tenente do Corpo de Bombeiros Militar,"Forças armadas, policiais e bombeiros militares",303,False,Demais ocupações
-311,Subtenente Bombeiro Militar | Sargento Bombeiro Militar,"Forças armadas, policiais e bombeiros militares",311,False,Demais ocupações
-312,Cabo Bombeiro Militar | Soldado Bombeiro Militar,"Forças armadas, policiais e bombeiros militares",312,False,Demais ocupações
+101,Oficial General da Aeronautica | Oficial General do Exercito | Oficial General da Marinha,"Forças armadas, policiais e bombeiros militares",0101,False,Demais ocupações
+102,Oficial da Aeronautica | Oficial do Exercito | Oficial da Marinha,"Forças armadas, policiais e bombeiros militares",0102,False,Demais ocupações
+103,Praca da Aeronautica | Praca do Exercito | Praca da Marinha,"Forças armadas, policiais e bombeiros militares",0103,False,Demais ocupações
+201,Coronel da Policia Militar | Tenente-Coronel da Policia Militar | Major da Policia Militar,"Forças armadas, policiais e bombeiros militares",0201,False,Demais ocupações
+202,Capitao da Policia Militar,"Forças armadas, policiais e bombeiros militares",0202,False,Demais ocupações
+203,Primeiro Tenente de Policia Militar | Segundo Tenente de Policia Militar,"Forças armadas, policiais e bombeiros militares",0203,False,Demais ocupações
+211,Subtenente da Policia Militar | Sargento da Policia Militar,"Forças armadas, policiais e bombeiros militares",0211,False,Demais ocupações
+212,Cabo da Policia Militar | Soldado da Policia Militar,"Forças armadas, policiais e bombeiros militares",0212,False,Demais ocupações
+301,Coronel Bombeiro Militar | Major Bombeiro Militar | Tenente-Coronel Bombeiro Militar,"Forças armadas, policiais e bombeiros militares",0301,False,Demais ocupações
+302,Capitao Bombeiro Militar,"Forças armadas, policiais e bombeiros militares",0302,False,Demais ocupações
+303,Tenente do Corpo de Bombeiros Militar,"Forças armadas, policiais e bombeiros militares",0303,False,Demais ocupações
+311,Subtenente Bombeiro Militar | Sargento Bombeiro Militar,"Forças armadas, policiais e bombeiros militares",0311,False,Demais ocupações
+312,Cabo Bombeiro Militar | Soldado Bombeiro Militar,"Forças armadas, policiais e bombeiros militares",0312,False,Demais ocupações
 1111,Senador | Deputado Federal | Deputado Estadual e Distrital,Dirigentes e gerentes,1111,False,Demais ocupações
 1112,Presidente da Republica | Vice-Presidente da Republica | Ministro de Estado,Dirigentes e gerentes,1112,False,Demais ocupações
 1113,Ministro do Supremo Tribunal Federal | Ministro do Superior Tribunal de Justica | Ministro do  Superior Tribunal Militar,Dirigentes e gerentes,1113,False,Demais ocupações
