@@ -22,7 +22,7 @@ O painel tem quatro páginas:
 - A criação de vagas se concentra em **jovens de 18 a 24 anos** (cerca de 73% do saldo do período) e em quem tem **ensino médio completo** (cerca de 78%).
 - Por região, o **Sudeste** lidera em saldo (1,09 mi), seguido por Nordeste (572 mil) e Sul (378 mil).
 - Os setores com maior saldo são **Atividades administrativas**, **Construção** e **Indústrias de transformação**.
-- O salário médio de admissão sobe com a escolaridade: cerca de R$ 2.057 (médio completo), R$ 4.225 (superior completo) e R$ 7.494 (pós-graduação).
+- O salário médio de admissão só se destaca a partir do ensino superior: cerca de R$ 2.057 no médio completo, R$ 4.225 no superior completo e R$ 7.494 na pós-graduação.
 - Em **TI e dados**, o salário médio de admissão (R$ 6.486) é quase três vezes o das demais ocupações (R$ 2.245), mas o saldo de vagas é pequeno (22,9 mil) e varia bastante entre as famílias de ocupação.
 - Entre mulheres e homens, o salário médio de admissão das mulheres é cerca de 10% menor (R$ 2.149 contra R$ 2.394). É uma diferença bruta, sem controle por setor, ocupação ou escolaridade.
 - Dezembro de 2025 teve saldo negativo (−618 mil), padrão sazonal de fim de ano.
